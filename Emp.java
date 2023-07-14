@@ -28,6 +28,7 @@ public class Emp implements Serializable {
     
 
     private String city;
+private String city;
     
 
 }
