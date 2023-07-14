@@ -26,4 +26,8 @@ public class Emp implements Serializable {
     private Double comm;
     private Integer deptno;
     
+
+    private String city;
+    
+
 }
