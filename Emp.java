@@ -26,6 +26,14 @@ public class Emp implements Serializable {
     private Double comm;
     private Integer deptno;
     
+<<<<<<< HEAD
     private Integer password;
     123123214
+=======
+
+    private String city;
+private String city;
+    
+
+>>>>>>> 7048fbb96ef7a23dac5f1a4e2de5e1c48f93332b
 }
